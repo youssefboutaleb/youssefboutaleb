@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youssefboutaleb
 - 👀 I’m interested in math and problem solving
-- 🌱 I’m currently learning software engineer
+- 🌱 I’m currently learning computer engineering
 - 📫 I am looking for an internship
 
 <!---
