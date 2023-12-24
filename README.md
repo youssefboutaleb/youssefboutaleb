@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **ML,DL,CNN,LSTM,RNN,GNN ...**
 
-- 📫 How to reach me **youssef.boutaleb@gmail.com**
+- 📫 How to reach me **youssef.boutaleb@enis.tn**
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1vlMbrtF6Iee5h7xjivdytJs9BHSrD03F/view?usp=sharing)
 
