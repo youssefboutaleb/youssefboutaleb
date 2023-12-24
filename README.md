@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **youssef.boutaleb@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1vlMbrtF6Iee5h7xjivdytJs9BHSrD03F/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
