@@ -1,5 +1,4 @@
 # Hi 👋, I'm Youssef Boutaleb
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=youssefboutaleb&label=Profile%20views&color=0e75b6&style=flat" alt="youssefboutaleb" />
 </p>
@@ -8,7 +7,31 @@
 
 ## 📫 Connect With Me
 
-<p align="center"> <a href="https://linkedin.com/in/youssef-boutaleb" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="filter: invert(1);" /> </a> &nbsp;&nbsp; <a href="https://youssefboutaleb.github.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vercel.svg" alt="Portfolio" width="40" height="40" style="filter: invert(1);" /> </a> &nbsp;&nbsp; <a href="https://medium.com/@youssefboutaleb.info" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" alt="Medium" width="40" height="40" style="filter: invert(1);" /> </a> &nbsp;&nbsp; <a href="https://github.com/youssefboutaleb" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="40" height="40" style="filter: invert(1);" /> </a> &nbsp;&nbsp; <a href="https://kaggle.com/youssefboutaleb" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" alt="Kaggle" width="40" height="40" style="filter: invert(1);" /> </a> &nbsp;&nbsp; <a href="mailto:youssefboutaleb.info@gmail.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="40" height="40" style="filter: invert(1);" /> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/youssef-boutaleb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://youssefboutaleb.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@youssefboutaleb.info" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/youssefboutaleb" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://kaggle.com/youssefboutaleb" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:youssefboutaleb.info@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" />
+  </a>
+</p>
 
 ## 🔧 Technical Skills
 
@@ -42,7 +65,6 @@
 ## 🎯 Teaching
 
 Currently teaching **Machine Learning** and **Data Engineering** at IHEC Sfax (Master's Level, 2024-2025)
-
 
 ## 📊 GitHub Stats
 
